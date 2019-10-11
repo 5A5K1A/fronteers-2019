@@ -163,11 +163,11 @@ Follow on [twitter](https://twitter.com/FronteersConf)
 <a name="#04-1155"></a>
 ## High Performance Web Fonts - Peter Müller
 > __Peter Müller__ |
- [Twitter](https://twitter.com/munter) |
+ [Twitter](https://twitter.com/_munter_) |
 
 > ...
 
-**Slides:   []()**
+**Slides:   [slides.com/munter](https://slides.com/munter/high-performance-web-fonts-fronteers-2019#/)**
 **Video:    [vimeo.com/fronteers/videos](https://vimeo.com/364391458)**
 
 ============================================================
